@@ -8,10 +8,10 @@ return [
 
     'datagrid' => [
         'title'         => 'DataGrid',
-        'actions'       => 'Actions',
-        'edit'          => 'Edit',
-        'view'          => 'View',
-        'delete'        => 'Delete',
+        'actions'       => 'Дії',
+        'edit'          => 'Редагувати',
+        'view'          => 'Переглянути',
+        'delete'        => 'Видалити',
         'id'            => 'Index columns have value greater than zero only',
         'cancel'        => 'Cancel',
         'download'      => 'Download',
